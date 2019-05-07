@@ -1,0 +1,290 @@
+[
+    {
+      "id": 1,
+      "zone": "Ahmedabad",
+      "commissionerate": "Ahmedabad South",
+      "address": "GROUND Floor, GST Bhavan, Near Polytechnic, Ambawadi, Ahmedabad-380015",
+      "phone": "079-27911969",
+      "fax": "079-27911969",
+      "email": "123@email.com"
+    },
+    {
+      "id": 2,
+      "zone": "Ahmedabad",
+      "commissionerate": "Ahmedabad South",
+      "address": "3RD FLOOR, SAHAJANAND ARCADE, NR. HELMET CIRCLE, MEMNAGAR, Ahmedabad - 380054",
+      "phone": "079-24657899",
+      "fax": "079-24657899",
+      "email": "124@email.com"
+    },
+    {
+      "id": 3,
+      "zone": "Ahmedabad",
+      "commissionerate": "Ahmedabad South",
+      "address": "3 rd Floor, Central Tax Building, Near Polytechnic, Ambawadi, Ahmedabad-380015",
+      "phone": "079-29876549",
+      "fax": "079-29876549",
+      "email": "125@email.com"
+    },
+    {
+      "id": 4,
+      "zone": "Ahmedabad",
+      "commissionerate": "Ahmedabad South",
+      "address": "DIVISION-I, Ahmedabad-I, 4TH FLOOR, CENTRAL EXCISE BHAVAN, AMBAVADI, Ahmedabad-380015",
+      "phone": "079-24675219",
+      "fax": "079-24675219",
+      "email": "126@email.com"
+    },
+    {
+      "id": 5,
+      "zone": "Ahmedabad",
+      "commissionerate": "Ahmedabad South",
+      "address": "RANGE-I,DIVISION-I, Ahmedabad-I, 4TH FLOOR, CENTRAL EXCISE BHAVAN, AMBAVADI, Ahmedabad-380015",
+      "phone": "079-26655789",
+      "fax": "079-26655789",
+      "email": "127@email.com"
+    },
+    {
+      "id": 6,
+      "zone": "Ahmedabad",
+      "commissionerate": "Ahmedabad North",
+      "address": "3rd Floor, Vidyalaya Chambers, Nr. Paldi Bus Stop, Paldi, A’bad07",
+      "phone": "079-27540359",
+      "fax": "079-27540359",
+      "email": "128@email.com"
+    },
+    {
+      "id": 7,
+      "zone": "Ahmedabad",
+      "commissionerate": "Ahmedabad North",
+      "address": "2nd floor, Jivabhai Mansion, Behind Ashram Road Post Office, Off Ashram Road, Ahmedabad-09",
+      "phone": "079-25498569",
+      "fax": "079-25498569",
+      "email": "129@email.com"
+    },
+    {
+      "id": 8,
+      "zone": "Ahmedabad",
+      "commissionerate": "Ahmedabad North",
+      "address": "2 nd Floor, Gokuldham Arcade, Sarkhej Sanand Road, Ahmedabad",
+      "phone": "079-29993339",
+      "fax": "079-29993339",
+      "email": "130@email.com"
+    },
+    {
+      "id": 9,
+      "zone": "Ahmedabad",
+      "commissionerate": "Ahmedabad North",
+      "address": "4 th Floor, Sahajanand Arcade, 132 Ft Ring Road, Memnagar, Ahmedabad-13",
+      "phone": "079-28134679",
+      "fax": "079-28134679",
+      "email": "131@email.com"
+    },
+    {
+      "id": 10,
+      "zone": "Ahmedabad",
+      "commissionerate": "Ahmedabad North",
+      "address": "Ground Floor, Custom House, Navrangpura, Ahmedabad-09",
+      "phone": "079-24569879",
+      "fax": "079-24569879",
+      "email": "132@email.com"
+    },
+    {
+      "id": 11,
+      "zone": "Ahmedabad",
+      "commissionerate": "Gandhinagar",
+      "address": "SECTOR 10 A, NR.CH-3 CIRCLE, OPP. ST.XAVIER’S SCHOOL, GANDHINAGAR",
+      "phone": "079-25555559",
+      "fax": "079-25555559",
+      "email": "133@email.com"
+    },
+    {
+      "id": 12,
+      "zone": "Ahmedabad",
+      "commissionerate": "Gandhinagar",
+      "address": "SECTOR 10 A, NR.CH-3 CIRCLE, OPP. ST.XAVIER’S SCHOOL, GANDHINAGAR.",
+      "phone": "079-26666669",
+      "fax": "079-26666669",
+      "email": "134@email.com"
+    },
+    {
+      "id": 13,
+      "zone": "Ahmedabad",
+      "commissionerate": "Gandhinagar",
+      "address": "Shiv Nagar Society, Itadara Road, Mansa, Distt.- Gandhinagar, Pincode-382845",
+      "phone": "079-27777779",
+      "fax": "079-27777779",
+      "email": "135@email.com"
+    },
+    {
+      "id": 14,
+      "zone": "Ahmedabad",
+      "commissionerate": "Gandhinagar",
+      "address": "SECTOR 10 A, NR.CH-3 CIRCLE, OPP. ST.XAVIER’S SCHOOL, GANDHINAGAR.",
+      "phone": "079-28888889",
+      "fax": "079-28888889",
+      "email": "136@email.com"
+    },
+    {
+      "id": 15,
+      "zone": "Ahmedabad",
+      "commissionerate": "Gandhinagar",
+      "address": "2nd Floor, Akashganga Complex, Near S.T. Bus Stand, Himatnagar, Dist. Sabarkantha, Gujarat-383001",
+      "phone": "079-29999999",
+      "fax": "079-29999999",
+      "email": "137@email.com"
+    },
+    {
+      "id": 16,
+      "zone": "Ahmedabad",
+      "commissionerate": "Gandhinagar",
+      "address": "SECTOR 10 A, NR.CH-3 CIRCLE, OPP. ST.XAVIER’S SCHOOL, GANDHINAGAR.",
+      "phone": "079-21111119",
+      "fax": "079-21111119",
+      "email": "138@email.com"
+    },
+    {
+      "id": 1,
+      "zone": "Hyderabad",
+      "commissionerate": "Rangareddy",
+      "address": "H.No.6-1-138, VDO's Colony, Khammam - 507 002",
+      "phone": 7901243384,
+      "fax": 7901243384,
+      "email": "567@fmail.com"
+    },
+    {
+      "id": 2,
+      "zone": "Hyderabad",
+      "commissionerate": "Rangareddy",
+      "address": "H.No.40-41/87/1,1st, 2nd,4th and 5th Floors, Navya Estates, Moula Ali, Hyderabad 500 040",
+      "phone": 7901243385,
+      "fax": 7901243385,
+      "email": "568@fmail.com"
+    },
+    {
+      "id": 3,
+      "zone": "Hyderabad",
+      "commissionerate": "Rangareddy",
+      "address": "H.No.40-41/87/1,1st, 2nd,4th and 5th Floors, Navya Estates, Moula Ali, Hyderabad 500 040",
+      "phone": 7901243386,
+      "fax": 7901243386,
+      "email": "569@fmail.com"
+    },
+    {
+      "id": 4,
+      "zone": "Hyderabad",
+      "commissionerate": "Rangareddy",
+      "address": "PLOT NO.16 & 21 ADITYA Towers, Sri Sai Enclave, Near Check Post, Bowenpally, Hyderabad Urban - 500011",
+      "phone": 7901243387,
+      "fax": 7901243387,
+      "email": "570@fmail.com"
+    },
+    {
+      "id": 5,
+      "zone": "Hyderabad",
+      "commissionerate": "Rangareddy",
+      "address": "H.No.40-41/87/1,1st, 2nd,4th and 5th Floors, Navya Estates, Moula Ali, Hyderabad 500 040",
+      "phone": 7901243388,
+      "fax": 7901243388,
+      "email": "571@fmail.com"
+    },
+    {
+      "id": 6,
+      "zone": "Hyderabad",
+      "commissionerate": "Medchal",
+      "address": "3rd Floor, Vidyalaya Chambers, Nr. Paldi Bus Stop, Paldi, A’bad07",
+      "phone": 7901243389,
+      "fax": 7901243389,
+      "email": "572@fmail.com"
+    },
+    {
+      "id": 7,
+      "zone": "Hyderabad",
+      "commissionerate": "Medchal",
+      "address": "M/s VST Industries Ltd., near RTC cross-road, Azamabad Indl Area, Azamabad, Hyderabad - 500 020.",
+      "phone": 7901243390,
+      "fax": 7901243390,
+      "email": "573@fmail.com"
+    },
+    {
+      "id": 8,
+      "zone": "Hyderabad",
+      "commissionerate": "Medchal",
+      "address": "M/s VST Industries Ltd., near RTC cross-road, Azamabad Indl Area, Azamabad, Hyderabad - 500 020.",
+      "phone": 7901243391,
+      "fax": 7901243391,
+      "email": "574@fmail.com"
+    },
+    {
+      "id": 9,
+      "zone": "Hyderabad",
+      "commissionerate": "Medchal",
+      "address": "M/s VST Industries Ltd., near RTC cross-road, Azamabad Indl Area, Azamabad, Hyderabad - 500 020.",
+      "phone": 7901243392,
+      "fax": 7901243392,
+      "email": "575@fmail.com"
+    },
+    {
+      "id": 10,
+      "zone": "Hyderabad",
+      "commissionerate": "Medchal",
+      "address": "M/s VST Industries Ltd., near RTC cross-road, Azamabad Indl Area, Azamabad, Hyderabad - 500 020.",
+      "phone": 7901243393,
+      "fax": 7901243393,
+      "email": "576@fmail.com"
+    },
+    {
+      "id": 11,
+      "zone": "Hyderabad",
+      "commissionerate": "Secunderabad",
+      "address": "11-5-423/1/A, Sitaram Prasad Towers, Opp Singareni Bhavan, Red Hills, Hyderabad",
+      "phone": 7901243394,
+      "fax": 7901243394,
+      "email": "577@fmail.com"
+    },
+    {
+      "id": 12,
+      "zone": "Hyderabad",
+      "commissionerate": "Secunderabad",
+      "address": "11-5-423/1/A, Sitaram Prasad Towers, Opp Singareni Bhavan, Red Hills, Hyderabad",
+      "phone": 7901243390,
+      "fax": 7901243390,
+      "email": "578@fmail.com"
+    },
+    {
+      "id": 13,
+      "zone": "Hyderabad",
+      "commissionerate": "Secunderabad",
+      "address": "11-5-423/1/A, Sitaram Prasad Towers, Opp Singareni Bhavan, Red Hills, Hyderabad",
+      "phone": 7901243391,
+      "fax": 7901243391,
+      "email": "579@fmail.com"
+    },
+    {
+      "id": 14,
+      "zone": "Hyderabad",
+      "commissionerate": "Secunderabad",
+      "address": "11-5-423/1/A, Sitaram Prasad Towers, Opp Singareni Bhavan, Red Hills, Hyderabad",
+      "phone": 7901243392,
+      "fax": 7901243392,
+      "email": "580@fmail.com"
+    },
+    {
+      "id": 15,
+      "zone": "Hyderabad",
+      "commissionerate": "Secunderabad",
+      "address": "11-5-423/1/A, Sitaram Prasad Towers, Opp Singareni Bhavan, Red Hills, Hyderabad",
+      "phone": 7901243393,
+      "fax": 7901243393,
+      "email": "581@fmail.com"
+    },
+    {
+      "id": 16,
+      "zone": "Hyderabad",
+      "commissionerate": "Secunderabad",
+      "address": "11-5-423/1/A, Sitaram Prasad Towers, Opp Singareni Bhavan, Red Hills, Hyderabad",
+      "phone": 7901243394,
+      "fax": 7901243394,
+      "email": "582@fmail.com"
+    }
+  ]
